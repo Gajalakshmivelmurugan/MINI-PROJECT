@@ -31,13 +31,16 @@ Libraries:Android SDK, Material Design Components,Room Persistence Library / SQL
 
 ## Output
 Smart Notifications for Instant Expense Tagging
+
 <img width="262" height="516" alt="image" src="https://github.com/user-attachments/assets/13700da8-b8e5-45b3-aa6a-e0944d897e05" />
 
 Dashboard
 
+
 <img width="271" height="526" alt="image" src="https://github.com/user-attachments/assets/6ccca1a6-bb4c-4301-99a5-2ce5e83e38e7" />
 
 Smart Assistant Chat Feature
+
 
 <img width="272" height="540" alt="image" src="https://github.com/user-attachments/assets/0e2ff9da-4ace-4623-99bc-2e9980ed9bf0" />
 
